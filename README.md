@@ -1,3 +1,7 @@
+## Management Ststem
+본 프로젝트는 React로만든 시스템
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
